@@ -15,8 +15,8 @@ const geistMono = localFont({
 })
 
 export const metadata: Metadata = {
-  title: 'CodeGuide Starter Pro',
-  description: 'Starter kit from codeguide.dev',
+  title: 'VibeCode - AI-Powered Workflow Tools',
+  description: 'AI-powered workflow tools for idea generation and product requirements document creation. Build smarter with VibeCode.',
 }
 
 export default function RootLayout({
